@@ -1,17 +1,12 @@
+
 ## Table of contents
 
-- [General info](#general-info)
 - [Technologies](#technologies)
 - [Tools](#tools)
 - [Testing](#testing)
 - [Getting Started](#getting-started)
-- [Team](#team)
-- [Link](#link)
 - [Licence](#licence)
 
-## General info
-
-We currently working on a project which involves developing a budgeting app with a team from the Vocational school.
 
 ## Technologies
 
@@ -70,10 +65,23 @@ npm start
 # application will open on your browser at
 http://localhost:3000
 
-```
+#######
+To sign-in
+You need to register new account, filling 4 required fields.
+If registration is successful, you can login using your email and password.
 
-## Link
+OR
+
+Login using existing accounts:
+User: email: vartotojas@gmail.com
+      password: Vartotojas123
+
+Admin: email: admin@gmail.com
+       password: Admin123
+
+#######
+```
 
 ## Licence
 
-Copyright ©️ 2022, HK
+Copyright ©️ 2022, HenK

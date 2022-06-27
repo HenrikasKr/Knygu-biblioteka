@@ -156,3 +156,10 @@ export async function addBook(data) {
   return res;
 }
 
+// Delete book
+export async function deleteBook(id) {
+  const res = await axiosClient.delete(`/book/delete/${id}`)
+  return res;
+}
+
+

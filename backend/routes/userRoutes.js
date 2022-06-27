@@ -24,7 +24,7 @@ router.route("/updateUser").post(updateUserById);
 router.route("/userByEmail").post(getUsersByEmail);
 router.route("/deleteUser/:id").delete(deleteUserById);
 router.route("/:id").get(getUserById);
-router.route("/book/delete/:id").get(deleteBook);
+router.route("/book/delete/:id").delete(deleteBook);
 
 
 //Admin routes

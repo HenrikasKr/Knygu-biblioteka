@@ -1,0 +1,32 @@
+.Registration-container {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.Registration-body {
+  max-width: 80%;
+  margin: auto;
+  grid-template-columns: repeat(2, 1fr);
+
+  border-radius: 20px;
+  background-color: var(--backGround-color-100);
+  justify-content: center;
+}
+
+.Registration-form {
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.Registration-form-btn {
+  padding: 0.5em 0;
+}
+
+.Registration-form > * {
+  width: 15rem;
+}

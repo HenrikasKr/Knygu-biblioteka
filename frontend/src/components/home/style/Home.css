@@ -1,0 +1,33 @@
+/* .Home-container {
+  padding: 2em 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 20px;
+}
+
+.Home-body-2,
+.Home-body-1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-items: center;
+}
+
+.Home-body-information {
+  padding: 0 3em;
+  margin: 1em 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+}
+
+h1 {
+  padding: 1em 0;
+  text-align: center;
+}
+
+hr {
+  margin: 0 4em;
+} */
